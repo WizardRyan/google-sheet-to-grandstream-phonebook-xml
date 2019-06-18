@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AddressBook>
+<version>1</version>
+<Contact>
+<FirstName>Ryan</FirstName>
+<LastName>Andersen</LastName>
+<Phone type="Work">
+<phonenumber>8014000671</phonenumber>
+</Phone>
+</Contact>
+<Contact>
+<FirstName>Test</FirstName>
+<LastName>Benson</LastName>
+<Phone type="Mobile">
+<phonenumber>891281928</phonenumber>
+</Phone>
+</Contact>
+</AddressBook>
